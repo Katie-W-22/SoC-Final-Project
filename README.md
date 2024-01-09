@@ -3,6 +3,9 @@
 Please view the promo video here: https://lnkd.in/eUmzpMJJ
 <br>
 <br>
+Link to the app: https://nesst.vercel.app/
+<br>
+<br>
 Some screen-shots from the promo video for our final project with The School of Code!
 <br>
 <br>
